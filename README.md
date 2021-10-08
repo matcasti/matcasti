@@ -1,8 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+
+![Twitter Follow](https://img.shields.io/twitter/follow/matias_science?label=Follow%20me&style=social) 
+[![donate](https://img.shields.io/badge/Support%20me-<3-brightgreen)](https://www.paypal.com/donate?hosted_button_id=NXV6ZK3UBT82W)  
+ORCID [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-7291-247X)  
+
+I am a personal trainer at [Austral Fitness®](https://www.australfitness.cl), a Kinesiology student at the [Universidad de Magallanes](http://www.umag.cl) and a researcher in the [Austral Chilean Integrative Molecular Neurophysiology group (NIM-ACh)](https://nimach.org).
+
+## 🔭 I’m currently working on
+
+- Sports physiology research, focused on clinical contexts.
+- Software development creating R packages for statistical computing.
+  - [writR](https://github.com/matcasti/writR), for manuscript-ready statistical computing with assumptions being tested (primarily for group differences)
+  - [dtPipe](https://github.com/matcasti/dtPipe), still under construction.
+
+## 🤓 Programming
+
+I currently enjoy programming in R and web development in my spare time (in the latter I am still improving my skills). So if you need someone to collaborate with for projects related to `R` don`t hesitate to let me know!
+
+## Contact
+
+For contact purposes, I prefer to receive e-mails to [matcasti@umag.cl](mailto:matcasti@umag.cl)
 
 <!--
-**matcasti/matcasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
