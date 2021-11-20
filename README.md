@@ -8,9 +8,11 @@ I am a personal trainer at [Austral Fitness®](https://www.australfitness.cl), a
 ## 🔭 I’m currently working on
 
 - Sports physiology research, focused on clinical contexts (check my ORCID [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-7291-247X)).
-- Software development creating R packages for statistical computing.
+- Software development creating R packages for statistical computing, reproducible research and data science.
   - [writR](https://github.com/matcasti/writR), for manuscript-ready statistical computing with assumptions being tested (primarily for group differences)
-  - [dtPipe](https://github.com/matcasti/dtPipe), still under construction.
+  - [dtPipe](https://github.com/matcasti/dtPipe), pipe-able functions for using `data.table` objects.
+  - [labinstrumentos](https://seremictci.github.io/labinstrumentos), processed data from the Instruments Laboratory of the Ministry of Science (Chile), as well as tools for analysis and visualisation.
+  - [rlockdown](https://matcasti.github.io/rlockdown/), allow users to protect their standalone html files in an easy manner with no server-side comunication.
 
 ## 🤓 Programming
 
